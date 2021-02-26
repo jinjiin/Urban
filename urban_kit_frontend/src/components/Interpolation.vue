@@ -118,7 +118,7 @@
 
       <!-- SI-AGAN Steps-->
 
-      <el-tab-pane label="SI-AGAN" class="full-height">
+      <el-tab-pane label="GEOMAN" class="full-height">
         <!-- SI-AGAN Steps-->
         <el-steps :active="GAN.active" simple>
           <el-step title="Start" icon="el-icon-help"></el-step>
@@ -177,7 +177,7 @@
             </el-col>
           </el-row>
           <div class="next-button-div">
-            <el-button type="primary" @click="handle_train_model('SI-AGAN')">Train</el-button>
+            <el-button type="primary" @click="handle_train_model('GEOMAN')">Train</el-button>
           </div>
         </div>
         <!-- SI-AGAN Train-->
@@ -213,7 +213,7 @@
             </el-row>
             <br />
             <el-row>
-              <el-button type="warning" @click="agan_reset('SI-AGAN')" round>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ReSet &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</el-button>
+              <el-button type="warning" @click="agan_reset('GEOMAN')" round>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ReSet &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</el-button>
             </el-row>
           </el-row>
         </div>

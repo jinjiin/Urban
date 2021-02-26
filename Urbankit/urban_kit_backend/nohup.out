@@ -1,0 +1,31 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[24/Feb/2021 13:09:24] "GET /data/get_collection_list HTTP/1.1" 200 53
+[24/Feb/2021 13:09:28] "GET /query/get_time_line?data_name=kdd_beijing_17_18_all HTTP/1.1" 200 149200
+[24/Feb/2021 13:09:28] "GET /query/get_attr_list?data_name=kdd_beijing_17_18_all HTTP/1.1" 200 229
+[24/Feb/2021 13:09:29] "GET /query/get_id_list?data_name=kdd_beijing_17_18_all HTTP/1.1" 200 572
+[24/Feb/2021 13:09:34] "GET /model/set_model_parameter?model_name=SI-AGAN&grid_size=10&generator_lr=0.001&discriminator_lr=0.001&pre_train_epoch=2&train_epoch=10&batch_size=20&mean_shift_radius=25&mean_shift_bandwith=20 HTTP/1.1" 200 18
+[24/Feb/2021 13:09:34] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:36] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:37] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:39] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:40] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:42] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:44] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:45] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:47] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:48] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:50] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:52] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:53] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:55] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:56] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:09:58] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:10:00] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:10:01] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:10:03] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:10:04] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:10:06] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:10:07] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
+[24/Feb/2021 13:10:09] "GET /model/get_train_progress?model_name=SI-AGAN HTTP/1.1" 200 11
